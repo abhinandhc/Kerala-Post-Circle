@@ -56,7 +56,7 @@
 
 .navbar-brand,
 .nav-item {
-    margin-left: 5rem;
+    margin-left: 4rem;
 
 }
 
@@ -64,10 +64,69 @@
     border: 1px solid white;
 }
 
+/* main section styling */
+.banner {
+    text-align: center;
+}
+
+#bnr {
+    width: 60%;
+    height: 40%;
+}
+
+.main-row {
+    text-align: center;
+}
+
+/* marquee section styling */
+.colhead {
+    text-align: center;
+    color: #2c1012;
+}
+
+#fakejobs,
+#staffnews {
+    margin: 2rem;
+    text-align: left;
+    background-color: #FEFBE7;
+    color: black;
+    padding: 0.5rem;
+}
+
+/* about section styling */
+.abouthead {
+    text-align: center;
+    margin-top: 1.5rem;
+}
+
+.aboutcontent {
+    text-align: center;
+}
+
 /* contact section styling */
 #contact {
     text-align: center;
-    margin: 2rem;
+    font-size: 0.8rem;
+}
+
+.ctnavbar {
+    background-color: #F32424;
+
+}
+
+#fb {
+    width: 40px;
+    height: 40px;
+}
+
+.contactmedia {
+    width: 50px;
+    height: 50px;
+}
+
+.navb-itm {
+    padding-top: 0.5rem;
+    margin-left: 3rem;
 }
 
 /* footer section styling */
