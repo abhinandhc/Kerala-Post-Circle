@@ -91,6 +91,8 @@
     background-color: #FEFBE7;
     color: black;
     padding: 0.5rem;
+    border: 0.5px solid #2c1012;
+    border-radius: 10px;
 }
 
 /* about section styling */
