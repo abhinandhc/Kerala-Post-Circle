@@ -1,0 +1,81 @@
+/* first navbar styling */
+.fn {
+    background-color: #DFDFDE;
+}
+
+.firstNavbar {
+    justify-content: space-between;
+    text-align: center;
+    margin: 1rem;
+    margin-top: 0%;
+    padding: 1rem;
+}
+
+#symbol {
+    width: 100px;
+    height: 150px;
+    text-align: center;
+    justify-content: center;
+}
+
+#co {
+    max-height: 150px;
+    mix-blend-mode: multiply;
+}
+
+.navRow {
+    display: flex;
+}
+
+#logo2 {
+    max-width: 220px;
+    height: 150px;
+}
+
+/* main heading styling */
+.header {
+    text-align: center;
+    font-family: 'Montserrat',
+        sans-serif;
+}
+
+/* second navbar styling */
+.secondNavbar,
+.dropdown-menu {
+    background-color: #F32424;
+}
+
+.navbar-brand,
+.nav-item,
+.nav-link,
+.dropdown,
+.dropdown-toggle,
+.dropdown-item {
+    color: white !important;
+}
+
+.navbar-brand,
+.nav-item {
+    margin-left: 5rem;
+
+}
+
+.dropdown-toggle:hover {
+    border: 1px solid white;
+}
+
+/* contact section styling */
+#contact {
+    text-align: center;
+    margin: 2rem;
+}
+
+/* footer section styling */
+.footer {
+    margin-bottom: 0%;
+    position: relative;
+    bottom: 0%;
+    padding: 0.75rem;
+    background-color: #251D3A;
+    color: white;
+}
